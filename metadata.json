@@ -1,0 +1,5 @@
+{
+  "name": "SmartTender AI",
+  "description": "An intelligent tender creation assistant that analyzes your purchasing needs via chat, identifies the domain, and recommends specialized tender templates.",
+  "requestFramePermissions": []
+}
